@@ -1,2 +1,2 @@
 # freeCodeCamp-repo
-Courses using freeCodeCamp
+Programs using freeCodeCamp
